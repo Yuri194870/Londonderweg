@@ -605,7 +605,7 @@ with tab3:
 
     # #########################################################################################################
 
-    fietslocatiestats = pd.read_csv('fietslocatiesstats.csv')
+    fietslocatiestats = pd.read_pickle('flstats.pkl')
 
     lenteritjes = fietslocatiestats[fietslocatiestats['seizoen'] == 'Lente']
     winterritjes = fietslocatiestats[fietslocatiestats['seizoen'] == 'Winter']
