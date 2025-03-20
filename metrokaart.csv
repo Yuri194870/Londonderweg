@@ -1,0 +1,151 @@
+,name,Jaar,Passagiers
+7,Bond Street,2007,36695785.0
+17,Bond Street,2008,36406455.0
+27,Bond Street,2009,36850571.0
+37,Bond Street,2010,36868627.0
+47,Bond Street,2011,36022087.0
+57,Bond Street,2012,38065150.0
+67,Bond Street,2013,39648205.0
+77,Bond Street,2014,19799777.0
+87,Bond Street,2015,37119274.0
+97,Bond Street,2016,39528650.0
+107,Bond Street,2017,36853006.0
+117,Bond Street,2018,36165875.0
+127,Bond Street,2019,37487361.0
+137,Bond Street,2020,9682506.0
+147,Bond Street,2021,15694939.0
+3,Canada Water,2007,8949223.0
+13,Canada Water,2008,11428836.0
+23,Canada Water,2009,10610907.0
+33,Canada Water,2010,9009718.0
+43,Canada Water,2011,9906521.0
+53,Canada Water,2012,10724783.0
+63,Canada Water,2013,11557722.0
+73,Canada Water,2014,11814216.0
+83,Canada Water,2015,12777430.0
+93,Canada Water,2016,14438625.0
+103,Canada Water,2017,42491516.0
+113,Canada Water,2018,35059059.0
+123,Canada Water,2019,36470471.0
+133,Canada Water,2020,14301897.0
+143,Canada Water,2021,17950386.0
+2,Canning Town,2007,8098981.0
+12,Canning Town,2008,7982681.0
+22,Canning Town,2009,7834906.0
+32,Canning Town,2010,8223551.000000001
+42,Canning Town,2011,8710542.0
+52,Canning Town,2012,8737992.0
+62,Canning Town,2013,9784093.0
+72,Canning Town,2014,10100164.0
+82,Canning Town,2015,10916031.0
+92,Canning Town,2016,11913321.0
+102,Canning Town,2017,26514203.0
+112,Canning Town,2018,26460986.0
+122,Canning Town,2019,28393798.0
+132,Canning Town,2020,21331852.0
+142,Canning Town,2021,21144840.0
+9,Finsbury Park,2007,24801026.0
+19,Finsbury Park,2008,26299025.0
+29,Finsbury Park,2009,23213512.0
+39,Finsbury Park,2010,23461314.0
+49,Finsbury Park,2011,24288678.0
+59,Finsbury Park,2012,26036007.0
+69,Finsbury Park,2013,27072271.0
+79,Finsbury Park,2014,27995495.0
+89,Finsbury Park,2015,28847088.0
+99,Finsbury Park,2016,32738968.0
+109,Finsbury Park,2017,29633479.0
+119,Finsbury Park,2018,31540207.0
+129,Finsbury Park,2019,33396270.0
+139,Finsbury Park,2020,15817399.0
+149,Finsbury Park,2021,14048632.0
+6,Green Park,2007,30034360.0
+16,Green Park,2008,29618755.0
+26,Green Park,2009,28258541.0
+36,Green Park,2010,29365627.0
+46,Green Park,2011,31724096.0
+56,Green Park,2012,33987599.0
+66,Green Park,2013,35459916.0
+76,Green Park,2014,39830418.0
+86,Green Park,2015,39552887.0
+96,Green Park,2016,41241175.0
+106,Green Park,2017,37397425.0
+116,Green Park,2018,36793171.0
+126,Green Park,2019,39059216.0
+136,Green Park,2020,9446617.0
+146,Green Park,2021,15943763.0
+4,Leicester Square,2007,38687223.0
+14,Leicester Square,2008,33868259.0
+24,Leicester Square,2009,35555594.0
+34,Leicester Square,2010,36938061.0
+44,Leicester Square,2011,38779688.0
+54,Leicester Square,2012,38512080.0
+64,Leicester Square,2013,38596700.0
+74,Leicester Square,2014,43314547.0
+84,Leicester Square,2015,43745951.0
+94,Leicester Square,2016,37843681.0
+104,Leicester Square,2017,34580105.0
+114,Leicester Square,2018,33424173.0
+124,Leicester Square,2019,34563636.0
+134,Leicester Square,2020,3950320.0
+144,Leicester Square,2021,16345381.0
+1,Oxford Circus,2007,72046333.0
+11,Oxford Circus,2008,72914886.0
+21,Oxford Circus,2009,72719762.0
+31,Oxford Circus,2010,70122354.0
+41,Oxford Circus,2011,77092776.0
+51,Oxford Circus,2012,80551504.0
+61,Oxford Circus,2013,85246928.0
+71,Oxford Circus,2014,98511630.0
+81,Oxford Circus,2015,92355623.0
+91,Oxford Circus,2016,83258977.0
+101,Oxford Circus,2017,79778619.0
+111,Oxford Circus,2018,73639833.0
+121,Oxford Circus,2019,78073457.0
+131,Oxford Circus,2020,14598777.0
+141,Oxford Circus,2021,32863152.0
+8,Piccadilly Circus,2007,38087335.0
+18,Piccadilly Circus,2008,38853181.0
+28,Piccadilly Circus,2009,38567356.0
+38,Piccadilly Circus,2010,39675335.0
+48,Piccadilly Circus,2011,40583552.0
+58,Piccadilly Circus,2012,42357331.0
+68,Piccadilly Circus,2013,41703911.0
+78,Piccadilly Circus,2014,42932327.0
+88,Piccadilly Circus,2015,42796831.0
+98,Piccadilly Circus,2016,41291525.0
+108,Piccadilly Circus,2017,38573777.0
+118,Piccadilly Circus,2018,36004485.0
+128,Piccadilly Circus,2019,38396960.0
+138,Piccadilly Circus,2020,4175738.0
+148,Piccadilly Circus,2021,14144793.0
+0,Stratford,2007,25627136.0
+10,Stratford,2008,27231042.0
+20,Stratford,2009,26989730.0
+30,Stratford,2010,29819454.0
+40,Stratford,2011,48571300.0
+50,Stratford,2012,50962909.0
+60,Stratford,2013,54503326.0
+70,Stratford,2014,59308320.0
+80,Stratford,2015,61442630.0
+90,Stratford,2016,67047270.0
+100,Stratford,2017,111539219.0
+110,Stratford,2018,112577515.0
+120,Stratford,2019,118564624.0
+130,Stratford,2020,53788483.0
+140,Stratford,2021,63439192.0
+5,Tottenham Court Road,2007,37288905.0
+15,Tottenham Court Road,2008,36573797.0
+25,Tottenham Court Road,2009,34869429.0
+35,Tottenham Court Road,2010,34548887.0
+45,Tottenham Court Road,2011,23990548.0
+55,Tottenham Court Road,2012,36013489.0
+65,Tottenham Court Road,2013,38063296.0
+75,Tottenham Court Road,2014,36762272.0
+85,Tottenham Court Road,2015,16249800.0
+95,Tottenham Court Road,2016,39346254.0
+105,Tottenham Court Road,2017,39193558.0
+115,Tottenham Court Road,2018,38649304.0
+125,Tottenham Court Road,2019,41988765.0
+135,Tottenham Court Road,2020,6045302.0
+145,Tottenham Court Road,2021,16036231.0
