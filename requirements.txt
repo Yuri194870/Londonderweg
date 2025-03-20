@@ -59,3 +59,4 @@ urllib3==2.3.0
 webencodings==0.5.1
 xyzservices==2025.1.0
 zipp==3.21.0
+scipy==1.10.0
